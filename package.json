@@ -1,0 +1,16 @@
+{
+  "name": "elite-md",
+  "version": "1.0.0",
+  "description": "Elite MD WhatsApp Bot with Real Account Banning",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.7.0",
+    "qrcode-terminal": "^0.12.0",
+    "uuid": "^9.0.0",
+    "axios": "^1.6.0",
+    "simple-git": "^3.22.0"
+  }
+}
